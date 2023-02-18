@@ -6,7 +6,7 @@ sites:
   - name: Quantrum Website
     url: https://quantrum.gr
   - name: Hosting Server 1
-    url: https://host01.quantrum.cloud
+    url: $HOST_1
   - name: Quantrum Control Panel
     url: https://client.quantrum.gr
 

@@ -40,17 +40,19 @@
     "url": "https://client.quantrum.gr",
     "icon": "https://icons.duckduckgo.com/ip3/client.quantrum.gr.ico",
     "slug": "quantrum-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 990,
-    "timeDay": 792,
-    "timeWeek": 797,
-    "timeMonth": 990,
-    "timeYear": 990,
-    "dailyMinutesDown": {}
+    "time": 1085,
+    "timeDay": 2316,
+    "timeWeek": 1177,
+    "timeMonth": 1085,
+    "timeYear": 1085,
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   }
 ]

@@ -4,10 +4,10 @@
     "url": "https://quantrum.gr",
     "icon": "https://icons.duckduckgo.com/ip3/quantrum.gr.ico",
     "slug": "quantrum-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.64%",
     "time": 3436,
@@ -16,6 +16,7 @@
     "timeMonth": 2931,
     "timeYear": 3436,
     "dailyMinutesDown": {
+      "2023-07-27": 1,
       "2023-07-14": 113,
       "2023-05-11": 710
     }
@@ -25,10 +26,10 @@
     "url": "$HOST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 795,
@@ -36,7 +37,9 @@
     "timeWeek": 887,
     "timeMonth": 824,
     "timeYear": 795,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-27": 1
+    }
   },
   {
     "name": "Quantrum Control Panel",

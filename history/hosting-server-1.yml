@@ -1,7 +1,7 @@
 url: $HOST_1
-status: down
-code: 502
-responseTime: 14407
-lastUpdated: 2023-08-15T22:18:16.084Z
+status: up
+code: 200
+responseTime: 1396
+lastUpdated: 2023-08-15T22:28:00.467Z
 startTime: Sat Feb 18 2023 11:33:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -7,8 +7,6 @@ sites:
     url: https://quantrum.gr
   - name: Hosting Server 1
     url: $HOST_1
-  - name: Quantrum Control Panel
-    url: https://client.quantrum.gr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

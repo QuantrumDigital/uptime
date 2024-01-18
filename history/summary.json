@@ -29,18 +29,19 @@
     "url": "$HOST_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hosting-server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 893,
-    "timeDay": 781,
+    "timeDay": 848,
     "timeWeek": 857,
     "timeMonth": 935,
     "timeYear": 893,
     "dailyMinutesDown": {
+      "2024-01-18": 0,
       "2024-01-17": 20
     }
   }
